@@ -5,3 +5,11 @@
 
 0.0.0.0 youtube.com
 0.0.0.0 www.youtube.com
+0.0.0.0 discord.com
+0.0.0.0 github.io
+0.0.0.0 dashnet.org
+0.0.0.0 demonin.com
+0.0.0.0 games.fs-studios.com
+0.0.0.0 hwcdn.net
+0.0.0.0 galaxy.click
+0.0.0.0 repl.co
